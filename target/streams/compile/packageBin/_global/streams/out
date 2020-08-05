@@ -1,0 +1,7 @@
+[debug] Packaging C:\projects\java\FunctionalProgrammingInScala\target\scala-2.13\functionalprogramminginscala_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	test$delayedInit$body.class
+[debug] 	  C:\projects\java\FunctionalProgrammingInScala\target\scala-2.13\classes\test$delayedInit$body.class
+[debug] 	test.class
+[debug] 	  C:\projects\java\FunctionalProgrammingInScala\target\scala-2.13\classes\test.class
+[debug] Done packaging.
